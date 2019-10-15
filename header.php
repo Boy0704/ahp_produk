@@ -10,6 +10,7 @@
 <body>
 <header>
 	<h1>Sistem Pendukung Keputusan dengan metode AHP</h1>
+	<h2>penentuan produk industri sabut</h2>
 </header>
 
 <div class="wrapper">
